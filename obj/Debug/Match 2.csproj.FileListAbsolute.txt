@@ -1,0 +1,10 @@
+C:\Users\Wilds\source\repos\Match 2\Match 2\bin\Debug\Match 2.exe.config
+C:\Users\Wilds\source\repos\Match 2\Match 2\bin\Debug\Match 2.exe
+C:\Users\Wilds\source\repos\Match 2\Match 2\bin\Debug\Match 2.pdb
+C:\Users\Wilds\source\repos\Match 2\Match 2\obj\Debug\Match 2.csprojAssemblyReference.cache
+C:\Users\Wilds\source\repos\Match 2\Match 2\obj\Debug\Match_2.Form1.resources
+C:\Users\Wilds\source\repos\Match 2\Match 2\obj\Debug\Match_2.Properties.Resources.resources
+C:\Users\Wilds\source\repos\Match 2\Match 2\obj\Debug\Match 2.csproj.GenerateResource.cache
+C:\Users\Wilds\source\repos\Match 2\Match 2\obj\Debug\Match 2.csproj.CoreCompileInputs.cache
+C:\Users\Wilds\source\repos\Match 2\Match 2\obj\Debug\Match 2.exe
+C:\Users\Wilds\source\repos\Match 2\Match 2\obj\Debug\Match 2.pdb
